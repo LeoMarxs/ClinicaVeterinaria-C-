@@ -1,0 +1,15 @@
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.AssemblyInfoInputs.cache
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.AssemblyInfo.cs
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.csproj.CoreCompileInputs.cache
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.sourcelink.json
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.dll
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\refint\Revisao.dll
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.pdb
+C:\POG\ClinicaVeterinaria-CSharp\bin\Debug\net8.0\Revisao.exe
+C:\POG\ClinicaVeterinaria-CSharp\bin\Debug\net8.0\Revisao.deps.json
+C:\POG\ClinicaVeterinaria-CSharp\bin\Debug\net8.0\Revisao.runtimeconfig.json
+C:\POG\ClinicaVeterinaria-CSharp\bin\Debug\net8.0\Revisao.dll
+C:\POG\ClinicaVeterinaria-CSharp\bin\Debug\net8.0\Revisao.pdb
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\Revisao.genruntimeconfig.cache
+C:\POG\ClinicaVeterinaria-CSharp\obj\Debug\net8.0\ref\Revisao.dll
