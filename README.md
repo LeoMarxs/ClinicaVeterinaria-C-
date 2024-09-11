@@ -1,8 +1,8 @@
-# README - Sistema de Gestão para Clínica Veterinária
+# 🐕 Sistema de Gestão para Clínica Veterinária
 
 ## Descrição do Projeto
 
-Este projeto é um **Sistema de Gestão para Clínicas Veterinárias**, desenvolvido para facilitar o gerenciamento das principais atividades e operações dentro de uma clínica. Ele oferece uma interface amigável para o controle de agendamentos, cadastro de pacientes (animais), médicos veterinários, prontuários e histórico de consultas, além de recursos para administrar estoques de medicamentos e produtos veterinários.
+Este projeto é um **Sistema de Gestão para Clínicas Veterinárias**, desenvolvido para facilitar o gerenciamento das principais atividades e operações dentro de uma clínica. Ele oferece uma interface amigável para o controle de agendamentos, cadastro de pacientes (animais), médicos veterinários, prontuários e histórico de consultas.
 
 ## Funcionalidades Principais
 
@@ -18,27 +18,9 @@ Este projeto é um **Sistema de Gestão para Clínicas Veterinárias**, desenvol
 4. **Histórico Médico e Prontuários**:
    - Registro de todo o histórico clínico do animal, com acesso fácil a prontuários, exames e tratamentos anteriores.
 
-5. **Gestão de Estoque**:
-   - Controle de estoque de medicamentos e produtos veterinários, com notificações para reposição quando necessário.
-
 6. **Relatórios e Estatísticas**:
-   - Geração de relatórios customizados sobre consultas, atendimentos realizados, medicamentos mais utilizados e status financeiro da clínica.
+   - Geração de relatórios customizados sobre consultas, atendimentos realizados.
 
-## Tecnologias Utilizadas
-
-- **Front-end**: React.js / Vue.js (escolha baseada no projeto)
-- **Back-end**: Node.js com Express
-- **Banco de Dados**: MySQL / MongoDB (dependendo da escolha de base de dados relacional ou não-relacional)
-- **Autenticação**: JWT (JSON Web Token) para controle de acesso seguro
-- **Outras Tecnologias**: Docker (para containerização), Git (controle de versão)
-
-## Como Executar o Projeto
-
-### Pré-requisitos
-
-- Node.js v14 ou superior
-- MySQL / MongoDB instalado e configurado
-- Docker (opcional para execução com container)
 
 ### Passos
 
@@ -46,3 +28,15 @@ Este projeto é um **Sistema de Gestão para Clínicas Veterinárias**, desenvol
    ```bash
    git clone https://github.com/seuprojeto/clinica-veterinaria.git
    cd clinica-veterinaria
+
+## Contribuições
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir com o projeto:
+
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+3. Commit suas mudanças (git commit -m 'Adiciona nova feature').
+4. Envie para o repositório (git push origin feature/nova-feature).
+5.  Abra um Pull Request.
+
+## Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
